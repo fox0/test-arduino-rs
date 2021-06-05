@@ -1,0 +1,9 @@
+[package]
+name = "arduino-rust-test"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+
+#[build]
+#target = "avr-unknown-gnu-atmega328.json"
